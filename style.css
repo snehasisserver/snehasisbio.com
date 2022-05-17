@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background:linear-gradient(#b0cef5 0%, #599af0 50%,#076cf0 100%);
+}
+header{
+ text-align: center;
+ font-family:monospace;
+}
+#img1{
+    float: left;
+    margin-left: 10px;
+    border: 2px black solid;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+#p1{
+    color: black;
+
+}
+#p1:hover{
+    color:green;
+}
+#b1{
+    font-size: 20px;
+}
+#gallery{
+    margin-top: 250px;
+    text-align: center;
+}
+#imgg{
+    width: 600px;
+    height: 450px;
+}
+html{
+    scroll-behavior: smooth;
+    padding-bottom: 100px;
+}
+#mysocialmedia{
+    text-align: center;
+    margin-top: 50px;
+}
+#footer_footer{
+width: 100%;
+bottom: 0;
+color: black;
+background-color: gainsboro;
+text-align: center;
+padding-top:20px ;
+padding-bottom: 20px;
+position: fixed;
+font-family:cursive;
+font-size: 18px;
+
+}
+#lable1{
+font-size: 20px;
+width:80%;
+display: inline-block;
+}
+#Youtube{
+    margin-bottom: 250px;
+    
+}
+#mysocialmedia{
+    margin-bottom: 400px;
+}
+#linksw{
+    background-color: gray;
+    color: black;
+    font-size: 20px;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+#linksw:hover{
+    background-color: gainsboro;
+}
+#links{
+    text-align: center;
+}
+#p2{
+    background-color: black;
+    color: red;
+    padding: 50px;
+    text-align: center;
+    font-size: 17.5px;
+}
+#p3{
+    background-color: black;
+    color: red;
+}
